@@ -1,4 +1,4 @@
-# TronGame with cpp
+# TronGame
 
 ## Project Overview
 TronGame is a multiplayer real-time game based on the terminal, where players control the movement of the light ball through keyboard input. The game interface is displayed via text, and it doesn't rely on a graphical user interface. This allows the game to run in a **command-line** environment and enables real-time multiplayer interactions over the network. Inspired by the classic game "Tron," it allows multiple players to participate via network connections. In the game, players control their "light trails" on a grid, colliding with other players' trails to eliminate them. Each player controls a light ball and needs to change its movement direction by inputting commands to avoid hitting other players' trails or boundaries. The project includes both server and client parts.
